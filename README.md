@@ -4,7 +4,8 @@ Um simples **simulador de caixa eletrônico** feito em PHP, que calcula a quanti
 
 💻 **Tecnologias Utilizadas:** HTML5, CSS3, PHP  
 
-🌐 **Acesse o projeto online:** [Clique aqui](https://richeliane-moura.github.io/caixa-eletronico/)  
+🌐 Acesse o projeto online: [clique aqui](https://richeliane-moura.github.io/caixa-eletronico/)
+  
 
 ## Funcionalidades
 
