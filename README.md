@@ -4,13 +4,12 @@ Um simples **simulador de caixa eletrônico** feito em PHP, que calcula a quanti
 
 💻 **Tecnologias Utilizadas:** HTML5, CSS3, PHP  
 
-🌐 Acesse o projeto online: [clique aqui](https://richeliane-moura.github.io/caixa-eletronico/)
-  
+🌐 **Acesse o projeto online:** [clique aqui](https://richeliane-moura.github.io/caixa-eletronico/)
 
 ## Funcionalidades
 
 - Solicita ao usuário o valor que deseja sacar.  
-- Calcula automaticamente a quantidade de notas de R$100, R$50, R$10 e R$5, se possível.  
+- Calcula automaticamente a quantidade de notas de R$100, R$50, R$10 e R$5 necessárias.  
 - Exibe as notas com imagens representativas.  
 - Informa se houver algum valor que não possa ser sacado devido à indisponibilidade de notas menores.  
 - Apenas valores múltiplos de 5 podem ser sacados.  
